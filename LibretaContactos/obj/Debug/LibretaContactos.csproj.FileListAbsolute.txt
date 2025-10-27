@@ -1,0 +1,11 @@
+C:\Users\bocaj\source\repos\LibretaContactos\bin\Debug\LibretaContactos.exe.config
+C:\Users\bocaj\source\repos\LibretaContactos\bin\Debug\LibretaContactos.exe
+C:\Users\bocaj\source\repos\LibretaContactos\bin\Debug\LibretaContactos.pdb
+C:\Users\bocaj\source\repos\LibretaContactos\obj\Debug\LibretaContactos.csproj.AssemblyReference.cache
+C:\Users\bocaj\source\repos\LibretaContactos\obj\Debug\LibretaContactos.LibretaContactos.resources
+C:\Users\bocaj\source\repos\LibretaContactos\obj\Debug\LibretaContactos.Properties.Resources.resources
+C:\Users\bocaj\source\repos\LibretaContactos\obj\Debug\LibretaContactos.csproj.GenerateResource.cache
+C:\Users\bocaj\source\repos\LibretaContactos\obj\Debug\LibretaContactos.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\source\repos\LibretaContactos\obj\Debug\LibretaContactos.exe
+C:\Users\bocaj\source\repos\LibretaContactos\obj\Debug\LibretaContactos.pdb
+C:\Users\bocaj\source\repos\LibretaContactos\obj\Debug\LibretaContactos.exe.config

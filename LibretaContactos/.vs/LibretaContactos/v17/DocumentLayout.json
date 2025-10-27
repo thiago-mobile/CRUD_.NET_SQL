@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bocaj\\source\\repos\\LibretaContactos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D785482-5472-40E0-A593-156E119B43DD}|LibretaContactos.csproj|C:\\Users\\bocaj\\source\\repos\\LibretaContactos\\libretacontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D785482-5472-40E0-A593-156E119B43DD}|LibretaContactos.csproj|solutionrelative:libretacontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D785482-5472-40E0-A593-156E119B43DD}|LibretaContactos.csproj|c:\\users\\bocaj\\source\\repos\\libretacontactos\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D785482-5472-40E0-A593-156E119B43DD}|LibretaContactos.csproj|solutionrelative:contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D785482-5472-40E0-A593-156E119B43DD}|LibretaContactos.csproj|C:\\Users\\bocaj\\source\\repos\\LibretaContactos\\libretacontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D785482-5472-40E0-A593-156E119B43DD}|LibretaContactos.csproj|solutionrelative:libretacontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D785482-5472-40E0-A593-156E119B43DD}|LibretaContactos.csproj|C:\\Users\\bocaj\\source\\repos\\LibretaContactos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D785482-5472-40E0-A593-156E119B43DD}|LibretaContactos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\bocaj\\source\\repos\\LibretaContactos\\Contacto.cs",
+              "RelativeDocumentMoniker": "Contacto.cs",
+              "ToolTip": "C:\\Users\\bocaj\\source\\repos\\LibretaContactos\\Contacto.cs",
+              "RelativeToolTip": "Contacto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAewDEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:40:07.412Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibretaContactos.cs",
+              "DocumentMoniker": "C:\\Users\\bocaj\\source\\repos\\LibretaContactos\\LibretaContactos.cs",
+              "RelativeDocumentMoniker": "LibretaContactos.cs",
+              "ToolTip": "C:\\Users\\bocaj\\source\\repos\\LibretaContactos\\LibretaContactos.cs",
+              "RelativeToolTip": "LibretaContactos.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T20:18:27.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bocaj\\source\\repos\\LibretaContactos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bocaj\\source\\repos\\LibretaContactos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T20:17:34.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibretaContactos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\bocaj\\source\\repos\\LibretaContactos\\LibretaContactos.cs",
+              "RelativeDocumentMoniker": "LibretaContactos.cs",
+              "ToolTip": "C:\\Users\\bocaj\\source\\repos\\LibretaContactos\\LibretaContactos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LibretaContactos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:48:11.836Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
